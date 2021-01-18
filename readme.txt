@@ -1,2 +1,2 @@
-this is a test file.
-to test local git.
+This is a test file.
+It used to test local git.
